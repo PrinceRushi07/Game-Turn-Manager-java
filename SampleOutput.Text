@@ -1,0 +1,18 @@
+Enter Number Of Player: 
+3
+Enter Player No.: 0 Name: 
+Alice
+Enter Player No.: 1 Name: 
+Bob
+Enter Player No.: 2 Name: 
+Charlie
+
+Welcome to game turn manager!
+1. Show current Player
+2. Next Turn
+3. Skip current Player
+4. Add player at end
+5. Remove Player
+6. Show All Players
+7. Exit
+Enter Your choice:
